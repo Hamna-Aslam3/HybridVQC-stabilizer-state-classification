@@ -9,7 +9,7 @@ The first column specifies the particular classification. The next four columns 
 
 **Table I: LU orbit of 3 qubit GHZ state against LU orbit of other 3 qubit states**
 
-| Class no. | Training Accuracy (%) | Testing Accuracy (%) | Training Loss | Testing Loss | No. of Samples | Number of Hidden Neurons in Classical NN | Learning Rate | Batch Size | No. of Layers of Quantum Circuit | No. of Epochs Run |
+| State Name | Training Accuracy (%) | Testing Accuracy (%) | Training Loss | Testing Loss | No. of Samples | Number of Hidden Neurons in Classical NN | Learning Rate | Batch Size | No. of Layers of Quantum Circuit | No. of Epochs Run |
 |:-------------------------------:|:---------------------:|:--------------------:|:-------------:|:------------:|:--------------:|:----------------------------------------:|:-------------:|:----------:|:--------------------------------:|:-----------------:|
 |             Fully separable     |           99          |          98          |      0.04     |     0.06     |      3000      |                    300                   |     0.002     |     20     |                 4                |         54        |
 |               AB-C              |           98          |          97          |      0.06     |     0.09     |      5000      |                    300                   |     0.002     |     20     |                 4                |         33        |
