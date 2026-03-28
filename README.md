@@ -81,6 +81,6 @@ The first column specifies the particular classification. The next four columns 
 
 | No. of qubits | Training Accuracy (%) | Testing Accuracy (%) | Training Loss | Testing Loss | No. of Samples | Number of Hidden Neurons in Classical NN | Learning Rate | Batch Size | No. of Layers of Quantum Circuit | No. of Epochs Run |
 |:-------------:|:---------------------:|:--------------------:|:-------------:|:------------:|:--------------:|:----------------------------------------:|:-------------:|:----------:|:--------------------------------:|:-----------------:|
-|       4       |          99          |          99          |      0.04     |     0.05     |      9600      |                  200,50                  |     0.001     |     10     |                 4                |         7         |
+|       4       |          99          |          99          |      0.04     |     0.05     |      9600      |                  200,50                  |     0.001     |     10     |                 4                |         14        |
 |       5       |           97          |          97          |      0.09     |     0.09     |      14400     |                  300,50                  |     0.001     |     10     |                 4                |         11        |
 |       6       |           96          |          96          |      0.13     |     0.15     |      32400     |                  500,50                  |     0.001     |     10     |                 4                |         11        |
