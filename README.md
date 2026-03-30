@@ -51,7 +51,7 @@ The first column specifies the particular classification. The next four columns 
 |     3     |           90          |          90          |      0.33     |     0.33     |      7200      |                  400,50                  |     0.001     |     10     |                 4                |         14        |
 |     4     |           95          |          95          |      0.16     |     0.17     |      14400     |                  500,150                 |     0.001     |     10     |                 4                |         67        |
 |     5     |          97           |          97          |      0.12     |     0.12     |      11040     |                  500,150                 |     0.001     |     10     |                 4                |         22        |
-|     6     |           93          |          92          |      0.21     |     0.22     |      7200      |                  400,50                  |     0.001     |     10     |                 4                |         19        |
+|     6     |           92          |          91          |      0.21     |     0.22     |      7200      |                  400,50                  |     0.001     |     10     |                 4                |         19        |
 
 
 **Table VI: LU orbit of 4 qubit graph state against LU orbit of other 4 qubit graph states**
